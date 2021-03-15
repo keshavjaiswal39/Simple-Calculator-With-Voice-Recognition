@@ -17,7 +17,7 @@
 
 You can also just click here to check out its working
 
-### https://simple-calculator-keshav.netlify.app/
+### https://simple-calculator-voice.netlify.app/
 
 # Added Feature : Voice Input
 
@@ -35,28 +35,11 @@ Steps:
 **A few Examples :**
 
 5 multiply 6
-
-
-
 2 plus 102
-
-
-
 3 minus 1
-
-
-
 100 multiply 10
-
-
-
 20 percent 3
-
-
-
 20 remainder 6, etc.
-
-
 
 # Credits :
 
